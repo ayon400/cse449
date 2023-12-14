@@ -1,13 +1,13 @@
-Link to unlisted YouTube video:
+Link to unlisted YouTube video: https://youtu.be/gZlnTMFwrXU?feature=shared
 
 
-Public link to the slide (Anyone on the internet can view without login):
+Public link to the slide (Anyone on the internet can view without login): https://youtu.be/gZlnTMFwrXU?feature=shared
 
 
-Paper title:
+Paper title: HPC Forecast : Cloudy and Uncertain
 
 
-Link to the paper:
+Link to the paper: 
 
 
 Group Number:
