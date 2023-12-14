@@ -7,7 +7,7 @@ Public link to the slide (Anyone on the internet can view without login): https:
 Paper title: HPC Forecast : Cloudy and Uncertain
 
 
-Link to the paper: 
+Link to the paper: https://cacm.acm.org/magazines/2023/2/268939-hpc-forecast/fulltext
 
 
 Group Number:
