@@ -1,7 +1,7 @@
 Link to unlisted YouTube video: https://youtu.be/gZlnTMFwrXU?feature=shared
 
 
-Public link to the slide (Anyone on the internet can view without login): https://youtu.be/gZlnTMFwrXU?feature=shared
+Public link to the slide (Anyone on the internet can view without login): https://docs.google.com/presentation/d/1cS0Jp22tqKCfbSoXwQPXrsMIxlfZK5Z6/edit?usp=sharing&ouid=102826859846288716720&rtpof=true&sd=true
 
 
 Paper title: HPC Forecast : Cloudy and Uncertain
